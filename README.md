@@ -14,6 +14,8 @@ Hello! My name is Matthew and I am a Software Developer. I am a passionate learn
 - Nextjs
 - TailwindCSS
 - Firebase
+- WhatsApp Cloud API 
+- ChatGPT 
 
 ### Connect with me:
 [LinkedIn](https://www.linkedin.com/in/matthew-godwin-479554209)  
